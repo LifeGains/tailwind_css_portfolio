@@ -1,5 +1,7 @@
 # Github Portfolio using TailwindCSS and Javascript
 
+**Instructions for Myself:**
+
 1. Open Cursor
 2. Open 2 Terminals.
 
@@ -18,3 +20,6 @@
 
 ![image](https://github.com/LifeGains/tailwind_css_portfolio/assets/68449363/82298626-0a14-499d-a39e-1524cbf40b4f)
 
+**Next Steps**
+
+Host on Render/Flask?
