@@ -738,12 +738,12 @@ video {
   transition-duration: 150ms;
 }
 
-.duration-500{
-  transition-duration: 500ms;
-}
-
 .duration-300{
   transition-duration: 300ms;
+}
+
+.duration-500{
+  transition-duration: 500ms;
 }
 
 .ease-out{
